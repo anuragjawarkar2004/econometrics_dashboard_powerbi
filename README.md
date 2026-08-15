@@ -5,7 +5,7 @@ consumer spending and carbon emissions in India (2000–2025).
 
 **Full report:** `Econometrics_Report.pdf`
 
-**Team project** — Worked collaboratively across the data analysis, econometric modeling, and
+**Team project** - Worked collaboratively across the data analysis, econometric modeling, and
 dashboard design.
 
 ## Project background
@@ -17,7 +17,7 @@ to test whether household consumption expenditure (HCE) drives CO₂ emissions i
 alongside GDP, unemployment, and renewable energy consumption as control variables.
 
 **Key finding:** economic growth (GDP) is the primary driver of CO₂ emissions, and
-renewable energy consumption significantly reduces them — while household consumption
+renewable energy consumption significantly reduces them - while household consumption
 expenditure alone did not show a statistically significant direct effect, though a weaker
 indirect relationship emerged in causality testing.
 
@@ -29,7 +29,7 @@ indirect relationship emerged in causality testing.
 - Sum of CO₂ emissions (metric tons per capita)
 - Sum of GDP (USD Billion)
 - Sum of Renewable Energy (%)
-- Sum of HCE — Household Consumption Expenditure (%)
+- Sum of HCE - Household Consumption Expenditure (%)
 - Sum of Unemployment (%)
 
 **Features:**
@@ -42,8 +42,8 @@ indirect relationship emerged in causality testing.
 
 | File | Description |
 |---|---|
-| `Econometrics_Report.pdf` | Full written report — methodology, literature review, regression and causality results, conclusions |
-| `Econometrics_Dashboard.pbix` | The Power BI file — requires Power BI Desktop to open and interact with |
+| `Econometrics_Report.pdf` | Full written report - methodology, literature review, regression and causality results, conclusions |
+| `Econometrics_Dashboard.pbix` | The Power BI file - requires Power BI Desktop to open and interact with |
 | `Econometrics_Dashboard.xlsx` | Source data used to build the dashboard |
 | `econometrics_dashboard.png` | Screenshot of the dashboard, for viewing directly on GitHub |
 | `README.md` | This file |
