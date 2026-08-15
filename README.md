@@ -48,9 +48,4 @@ indirect relationship emerged in causality testing.
 | `econometrics_dashboard.png` | Screenshot of the dashboard, for viewing directly on GitHub |
 | `README.md` | This file |
 
-## Why a screenshot is included
 
-Power BI's `.pbix` format is proprietary and only opens in Power BI Desktop, so GitHub
-can't render it directly. The screenshot lets anyone browsing the repo see the dashboard
-without installing anything; the `.pbix` and source data are included for anyone who wants
-to open, verify, or rebuild it directly.
